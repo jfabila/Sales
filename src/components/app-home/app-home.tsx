@@ -10,7 +10,7 @@ export class AppHome {
     return [
       <ion-header>
         <ion-toolbar color="primary">
-          <ion-title>Home fun</ion-title>
+          <ion-title>Home funny</ion-title>
         </ion-toolbar>
       </ion-header>,
 
